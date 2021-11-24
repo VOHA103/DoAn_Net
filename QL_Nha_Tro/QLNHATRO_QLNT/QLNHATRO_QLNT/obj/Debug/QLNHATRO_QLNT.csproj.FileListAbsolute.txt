@@ -1,0 +1,332 @@
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csprojAssemblyReference.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.demo.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CopyComplete
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KhachHang.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParentForm.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BaoCaoKhacHang.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HopDong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_NhaTro\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BaoCaoKhacHang.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HopDong.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.AssemblyReference.cache
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+D:\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csprojAssemblyReference.cache
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CopyComplete
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KETNOIHETHONG.resources
+C:\Users\thuha\Downloads\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BCHDON.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csprojAssemblyReference.cache
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BCHDON.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KETNOIHETHONG.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CopyComplete
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.BC.fr_BCHDON.resources
+D:\.Net\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.demo_CTHD.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.BC.fr_BCHDON.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BCHDON.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.demo_CTHD.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KETNOIHETHONG.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CopyComplete
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.AssemblyReference.cache
+D:\.NET\New folder\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HopDong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.BC.fr_BCHDON.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BCHDON.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.demo_CTHD.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HopDong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KETNOIHETHONG.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLy.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+C:\Users\ACER\Desktop\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csprojAssemblyReference.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.BC.fr_BCHDON.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.BCHDON.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ChiTietHoaDon.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DangKy.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.demo_CTHD.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DichVu.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.DoiMatKhau.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HoaDon.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.HopDong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.KETNOIHETHONG.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Khach.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.LoaiPhong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.login.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.MDIParent1.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.Phong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.QuanLyUser.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThanhToan.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThongTinThanhToan.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.ThuePhong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.GUI.TraPhong.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.Properties.Resources.resources
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.GenerateResource.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CoreCompileInputs.cache
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.exe
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.pdb
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe.config
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.exe
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\QLNHATRO_QLNT.pdb
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Shared.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\ShockwaveFlashObjects.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\stdole.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\2021-2022\CongNghe_.Net\Do_An_CuoiKi\QL_Nha_Tro\QLNHATRO_QLNT\QLNHATRO_QLNT\obj\Debug\QLNHATRO_QLNT.csproj.CopyComplete
